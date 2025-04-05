@@ -2,7 +2,7 @@
 
 * Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000269.html>
 * Twitter: <https://twitter.com/SalTesta14/status/964925875111182336>
-* Blog post: <https://saltesta.com/crypto/powers-of-tau/>
+* Blog post: <https://sal.dev/crypto/powers-of-tau/>
 
 Response file:
 
